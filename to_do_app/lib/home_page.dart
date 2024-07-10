@@ -5,7 +5,7 @@ import './util/todo_tile.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+   HomePage({super.key});
 
   @override
   State<HomePage> createState() => _HomePageState();
